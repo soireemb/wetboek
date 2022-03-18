@@ -16,4 +16,4 @@ AvantisRP heeft verschillende discord servers die zijn goed gekeurd door het sta
 | Server | Beschrijving | Invite link |
 |---|---|:---:|
 |AvantisRP RolePlay| Main discord server van AvantisRP | [Invite](https://discord.gg/Bzcym22YMc) |
-|AvantisRP Hulpdiensten| Hulpdiensten discord server van AvantisRP | [Invite](https://discord.gg/UnStbDzxtt) |
+|AvantisRP Hulpdiensten| Hulpdiensten discord server van AvantisRP | [Invite](https://discord.gg/eAgw5CTFCR) |
