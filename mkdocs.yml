@@ -12,14 +12,12 @@ theme:
   palette:
     - scheme: default
       toggle:
-        icon: material/weather-night
+        icon: material/toggle-switch
         name: Switch to dark mode
     - scheme: slate
       toggle:
-        icon: material/weather-sunny
+        icon: material/toggle-switch-off-outline
         name: Switch to light mode
-  favicon: img/logoAvantis.png
-  logo: img/logoAvantis.png
   custom_dir: docs/overrides
   language: nl
   extra_javascript:
