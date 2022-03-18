@@ -4,3 +4,28 @@ site_description: 'Wetgeving Avantis roleplay'
 site_author: 'xRadeCoding'
 
 copyright: AvantisRP • © alle rechten voorbehouden | 2021 - 2022
+
+theme:
+  name: material
+#   features:
+#     - navigation.tabs
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  favicon: img/logoAvantis.png
+  logo: img/logoAvantis.png
+  custom_dir: docs/overrides
+  language: nl
+  extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/tablesort.min.js
+  - javascripts/tables.js
+nav:
+  - Home: index.md
+  - Algemene Plaatselijke Verordening: apv.md
+  - Wetboek: wetboek.md
