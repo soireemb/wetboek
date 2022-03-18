@@ -1,1 +1,10 @@
-site_name: My Docs
+site_name: AvantisRP wet en regelgeving
+site_url: https://example.com
+site_description: 'Wetgeving Avantis roleplay'
+site_author: 'xRadeCoding'
+
+copyright: AvantisRP • © alle rechten voorbehouden | 2021 - 2022
+
+theme:
+  name: null
+  custom_dir: mkdocs-material/material
