@@ -14,9 +14,9 @@
 
 ### A1 - Reikwijdte
 
-1. Het Wetboek AvantisRP (verder aangeduid als WTDA) is leidend voor alle beschreven gevallen, waarbij als aanvulling het Nederlands Recht van toepassing is.
-2. Het WTDA heeft betrekking op het vaste land, de gemeente, en de stad AvantisRP.
-3. Het WTDA is nauw verweven met de Algemene Plaatselijke Verordening AvantisRP (APV). De APV dient echter als een indicerend kader voor eventuele bestraffing in-game (“in RP”) en is verder bedoeld voor het afhandelen van straffen buiten de RP om.
+1. Het Wetboek AvantisRP (verder aangeduid als WAV) is leidend voor alle beschreven gevallen, waarbij als aanvulling het Nederlands Recht van toepassing is.
+2. Het WAV heeft betrekking op het vaste land, de gemeente, en de stad AvantisRP.
+3. Het WAV is nauw verweven met de Algemene Plaatselijke Verordening AvantisRP (APV). De APV dient echter als een indicerend kader voor eventuele bestraffing in-game (“in RP”) en is verder bedoeld voor het afhandelen van straffen buiten de RP om.
 
 ### A2 - Geldigheid
 
