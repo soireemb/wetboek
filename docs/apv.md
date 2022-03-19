@@ -612,4 +612,4 @@ Onderstaande regels tellen alleen op Narcopolis
 ![bijlage-1](https://Avantis.nl/wp-content/uploads/2021/08/Schermafbeelding_2021-08-23_om_10.png)
 
 ---------------------
-APV opgesteld uit naam van de Hoge Raad, bedoeld voor het eiland, de gemeente en de stad “Aventis”, opgetekend door Bram Mosterdfiets, te Avantis.
+APV opgesteld uit naam van de Hoge Raad, bedoeld voor het eiland, de gemeente en de stad “Aventis”, opgetekend door Jeffrey L, te Avantis.
