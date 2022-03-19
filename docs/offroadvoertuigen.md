@@ -91,3 +91,6 @@ Bij het rijden met een voertuig op een pad of weg, waarvoor deze niet bedoeld is
 * Ford F-150 1978
 
 Ps. Missen er nog voertuigen of is het onduidelijk graag even een ticket ervoor aanmaken
+
+---------------------
+offroadvoeertuigen opgesteld uit naam van de Hoge Raad, bedoeld voor het eiland, de gemeente en de stad “Aventis”, opgetekend door Jeffrey L en Niels Smit, te Avantis.
