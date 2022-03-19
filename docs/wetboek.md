@@ -1060,4 +1060,4 @@
 7. Op vordering van de douane zijn reizigers, die zich bevinden in een vervoermiddel op de bedoelde locaties van lid 1, gehouden hun identiteit- en/of rijbewijs te vertonen. Deze verplichting geldt eveneens voor reizigers die in het vervoermiddel aanwezig zijn of juist hebben verlaten, dan wel die op het punt staan daarin aan boord te gaan.
 
 ---------------------
-*Wetboek AvantisRP is opgesteld uit naam van de Hoge Raad, bedoeld voor het eiland, de gemeente en de stad “AvantisRP”, opgetekend door Bram Mosterdfiets, te AvantisRP.*
+*Wetboek AvantisRP is opgesteld uit naam van de Hoge Raad, bedoeld voor het eiland, de gemeente en de stad “AvantisRP”, opgetekend door Jeffrey L en Niels Smit, te AvantisRP.*
