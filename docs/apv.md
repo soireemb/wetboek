@@ -55,7 +55,7 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Avantis, wordt hierbij ingetr
    * In dit Wetboek is opgenomen alle criminele feiten, de bijbehorende boetes, gevangenisstraffen enzovoorts.
 2. Dit Wetboek heeft, net als de APV, een basis in het Nederlands Recht.
    * Het Nederlands Recht is zodoende leidend, *tenzij* er een Wet of Bepaling is opgenomen in de WAVRP. Dan is deze leidend.
-3. Dit wetboek is, net als deze APV en conform de rechtsstaat, ten alle tijden openbaar.
+3. Dit wetboek is, net als deze APV en conform de rechtsstaat, te allen tijde openbaar.
 
 ## Overtredingen - Verstoring openbare orde (RP)
 
@@ -312,7 +312,7 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 4. Verder is het niet toegestaan om door de politie in beslag genomen objecten door te handelen naar spelers. Ditzelfde is ook van toepassing op alle andere overheids objecten en op informatie die de (ex-)medewerker heeft verkregen tijdens zijn carrière bij de desbetreffende overheidsdienst. Dit geldt ook nadat de desbetreffende persoon ontslag heeft genomen of ontslagen is.
 5. Bij een overtreding van de regel in lid 4 wordt de overtreder ontslagen en hiernaast bestraft volgens minimaal de 6e categorie.
 6. Onder overheids objecten vallen voorwerpen zoals: medkits, repair kits, politie geweren, enzovoort.
-7. Een ambtenaar buiten dienst mag geen politie wapens bij zich dragen deze dienen ten alle tijden na een dienst opgeborgen te worden in de wapenkluis. Bij overtreding van dit lid zal er gestraft worden volgens de 1e categorie.
+7. Een ambtenaar buiten dienst mag geen politie wapens bij zich dragen deze dienen te allen tijde na een dienst opgeborgen te worden in de wapenkluis. Bij overtreding van dit lid zal er gestraft worden volgens de 1e categorie.
 8. Op lid 7 geldt een uitzondering voor medewerkers van de politie of koninklijke marechaussee met een speciale vergunning. Deze leden mogen wel hun wapens buiten dienst behouden.
 
 ### Artikel 29 - Overheidsvoertuigen
@@ -399,7 +399,7 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 
 ### Artikel 39 - Officiële gang regels
 
-1. Probeer ten alle tijden te voorkomen om te schieten bij een officieel gang huis.
+1. Probeer te allen tijde te voorkomen om te schieten bij een officieel gang huis.
 2. Het is verboden om nep meldingen te maken in de omgeving van een ganghuis met de intentie tot uitlokken van de criminelen of het in de problemen werken van de rivaliserende groep.
 3. Op het moment dat een voertuig in beslag genomen word en in een opslag gezet word is het niet toegestaan om deze nog uit je garage te halen.
 4. Wanneer er 2 weken lang geen roleplay aan de inbeslagname gebonden word is het toegestaan om het voertuig weer gratis uit de garage te halen.
