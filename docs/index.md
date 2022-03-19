@@ -7,7 +7,7 @@ Zorg ervoor, dat je voor je deelneemt aan AvantisRP, kennis hebt genomen van dez
 
 - De Algemene Plaatselijke Verordening bevat alle regels die niet te maken hebben met de Roleplay (dit zijn zogezegd de "server regels").
 - Het Wetboek AvantisRP bevat alle wetten voor de burgers.
-- Alle overige documenten zijn specifiek bedoeld voor bepaalde zaken (zoals een belastingdocument waar je kan opzoeken hoeveel de autobelasting is)
+- Alle overige documenten zijn specifiek bedoeld voor bepaalde zaken (zoals een belastingdocument waar je kan opzoeken hoeveel de autobelasting is).
 
 ## Officiële discord servers
 
