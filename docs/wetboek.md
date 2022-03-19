@@ -836,7 +836,7 @@
 
 ## Titel VII - Uitsluitings- en strafverminderingsgronden
 
-![Titel VII](https://i.imgur.com/7KGl9DA.png)
+![Titel VII]()
 
 ### Artikel VII-1 Algemene Uitsluitingen (39-43 SR)
 
