@@ -65,7 +65,8 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Avantis, wordt hierbij ingetr
 2. De overtreding vermeld in het eerste lid staat bekend als “FailRP”
 3. Hij/zij die opzettelijk de roleplay zodanig vormt dat er een oneerlijke of onrealistische draai aan het verhaal geeft, of de roleplay van de andere partij zelf invult door een onrealistische dwang, wordt gestraft volgens de 1e categorie.
 4. De overtreding vermeld in het derde lid staat bekend als "powergaming"
-5. Enkele voorbeelden van lid 1 en lid 3 zijn:
+5. Iemand die vlucht voor de politie zonder dat hij illegale praktijken uitvoerd of verdenking heeft van een signalement op zijn/haar naam word gezien als FAILRP. wordt gestraft volgens de 1e categorie.
+6. Enkele voorbeelden van lid 1 en lid 3 zijn:
     * Niet meewerken aan een roleplayscenario of een /me-command, bijvoorbeeld opzettelijk een onjuiste portofrequentie doorgeven nadat er een roleplayactie is uitgevoerd om dit te achterhalen;
     * Tijdens een achtervolging je voertuig in de garage zetten om te voorkomen dat je je voertuig kwijtraakt;
     * Geen roleplay aangaan na of je niets aantrekken van een (ernstige) verwonding of (verkeers)ongeval;
