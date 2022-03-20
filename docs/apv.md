@@ -495,7 +495,20 @@ Overtreding van lid 1 wordt bestraft met een straf in de 1e categorie.
 3. Overtreding van lid 2 zal resulteren in een straf van de 2e categorie en ontslag bij dit beroep een verbod op uitoefenen hier van 1 maand.
 4. Als een werkgever herhaaldelijk lid 1 overtreed zal de Hogeraad zich buigen over een gepaste straf
 
-### Artikel 52 - Demonstreren
+### Artikel 52 - Crimineel gedrag tegen overheidsmedewerkers
+
+1. Het is verboden om een ambulancemedewerker te ontvoeren. 
+2. Het is verboden om een ambulancemedewerker te beledingen. 
+3. Het is verboden om niet mee tewerken met de roleplay van een ambulancier.
+4. Het is niet tegestaan een melding te maken naar een overhiedsmedewerker of overheidsinstanties met intensie om de persoon die hier op reageert te vermoorden of te ontvoeren. 
+5. Er moeten altijd minimaal 4 overheidmedewerks binnen een baan beschikbaar blijven als er één ontvoert is, dus als er 5 overheidmedewerks aanwezig zijnmag er 1 ontvoert worden, als er 3 overheidmedewerks aanwezig zijn binnen één baan mag er geen overheidmederwers ontvoertworden. Er moeten ten alle tijden meer dan 4 overheidmederwers beschikbaar zijn. 
+6. Het is niet toegestaan om agenten te ontvoeren om in beslag genomen goederen terug te eisen, hun overmeesteren daarentegen mag wel.
+7. Het is niet toegestaan om een overheidsmedewerker te ontvoeren in ruil voor losgeld.
+8. Het is niet toegestaan om agenten te ontvoeren om iemand uit de gevangenis te breken.
+9. Het is niet toegestaan om als een overheidsmedewerker dood is hem te fouilleren. 
+10. Indien de boven staande regels verbroken worden zal dit bestraft worden met een straf volgens de 1e categorie. Bij herhaalde overtreding volgt er ten hoogste een straf volgens de 3e categorie.
+
+### Artikel 53 - Demonstreren
 
 1. Het is verboden om in grote groepen samen te komen en te demonstreren zonder dat hier:
     * Schriftelijk toestemming voor is van de hogeraad.
@@ -504,25 +517,25 @@ Overtreding van lid 1 wordt bestraft met een straf in de 1e categorie.
 2. Bij overtreding van één van deze regel zullen alle betrokken personen een straf krijgen van de 2e categorie.
 3. Mocht de demonstratie uit de hand lopen indien deze wel voldoet aan lid 1 zal de leidinggevende persoon een straf krijgen van de 3e categorie.
 
-### Artikel 53 - Borgtocht
+### Artikel 54 - Borgtocht
 
 1. Op het moment dat een persoon op borgtocht wordt gestuurd door de politie, dan ligt het scenario tussen de politie en de desbetreffende persoon stil.
 2. Er dient aan alle voorwaarden van de borgtocht gehouden te worden.
 3. Het is niet toegestaan om spullen (zoals wapens, drugs en dergelijke) die vóór de aanhouding in het appartement/voertuig zaten hieruit te halen of over te dragen naar andere personen op het moment dat een persoon op borgtocht is gestuurd.
 4. Bij overtreding van lid 1, 2 of 3 zal een straf worden gegeven van de 1e categorie en zal het roleplayscenario worden teruggedraaid.
 
-### Artikel 54 - Refunds
+### Artikel 55 - Refunds
 
 1. Items worden niet gerefund wanneer zij verloren zijn gegaan door een aangekondigde server restart.
 2. Stacks aan items zoals drugs worden alleen gerefund bij het onverwachts wegvallen van de server door bijvoorbeeld een crash.
 3. Refunds die vallen onder lid 2 worden alleen gegeven wanneer er voldoende bewijs wordt geleverd dat het daadwerkelijk door het onverwachts wegvallen van de server verloren is gegaan.
 
-### Artikel 55 - Appartementen
+### Artikel 56 - Appartementen
 
 1. Het oplichten van een persoon, verkopen en inkopen van wapens, verkopen en opkopen van drugs, vermoorden of ontvoeren van een persoon en het gebruiken van een wapen zijn in een appartement verboden.
 2. Bij overtreding van lid 1. Zal dit resulteren in een straf volgens de 4e categorie voor alle betrokken partijen.
 
-### Artikel 56 - Erotische Roleplay(ERP)
+### Artikel 57 - Erotische Roleplay(ERP)
 
 1. Het is verboden om een Erotische roleplay uit te voeren of aan te gaan.
 2. Uitzondering van het feit genoemd in lid 1 zal binnen de Hoge Raad besproken moeten worden. Enkel voorbeeld hiervan:
