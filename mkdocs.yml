@@ -32,7 +32,7 @@ nav:
   - Offroad Voertuigen: offroadvoertuigen.md
   - NOTAM: notam.md
   - Tarief:
-    - Ambulance: kosten/ambulance.md
-    - ANWB: kosten/anwb.md
-    - Politie: kosten/politie.md
-    - Vliegschool: kosten/vliegschool.md
+    - Ambulance: Tarief/ambulance.md
+    - ANWB: Tarief/anwb.md
+    - Politie: Tarief/politie.md
+    - Vliegschool: Tarief/vliegschool.md
