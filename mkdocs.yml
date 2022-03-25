@@ -31,3 +31,8 @@ nav:
   - Belastingen: belastingen.md
   - Offroad Voertuigen: offroadvoertuigen.md
   - NOTAM: notam.md
+  - Tarief:
+    - Ambulance: kosten/ambulance.md
+    - ANWB: kosten/anwb.md
+    - Politie: kosten/politie.md
+    - Vliegschool: kosten/vliegschool.md
