@@ -422,6 +422,15 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 3. Overtreding van lid 1 zal resulteren in een straf van de 4e categorie.
 4. Overtreding van lid 2 zal resulteren in een minimale straf van de 1e categorie
 
+### Artikel 42 - Wapens stelen 
+
+1. Het is verboden om iemand te overvallen of te vermoorden enkel met de intentie om hem van zijn wapen te beroven 
+2. Mag het wapen enkel van iemand afpakken als hij bij bewustzijn is. 
+3. Het is niet toegestaan om iemand te beschieten omdat de persoon een wapen bij zich heeft.
+4. Het is niet toegestaan om een persoon omhoog te laten helpen enkel om het wapen van deze persoon te beroven.
+5. Bij het overtreden van lid 1,2,3 of 4 wordt een straf van de 1e categorie uitreiken
+
+
 ## Overige bepalingen
 
 ### Artikel 41 - Bodycams
