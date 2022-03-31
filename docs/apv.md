@@ -316,7 +316,6 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 6. Onder overheids objecten vallen voorwerpen zoals: medkits, repair kits, politie geweren, enzovoort.
 7. Een ambtenaar buiten dienst mag geen politie wapens bij zich dragen deze dienen te allen tijde na een dienst opgeborgen te worden in de wapenkluis. Bij overtreding van dit lid zal er gestraft worden volgens de 1e categorie.
 8. Op lid 7 geldt een uitzondering voor medewerkers van de politie of koninklijke marechaussee met een speciale vergunning. Deze leden mogen wel hun wapens buiten dienst behouden.
-9. Een ambtenaar in dienst mag een maximum munitie van 100 stuks bij zich dragen, per wapen. Dit geldt ook voor de medewerkers met een speciale vergunning.
 
 ### Artikel 29 - Overheidsvoertuigen
 
@@ -422,15 +421,6 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 2. Het is niet de bedoeling dat elke overval een wild-west-situatie wordt, dus probeer op alle mogelijke manieren eerst een vuurgevecht te vermijden en onderhandel met de politie.
 3. Overtreding van lid 1 zal resulteren in een straf van de 4e categorie.
 4. Overtreding van lid 2 zal resulteren in een minimale straf van de 1e categorie
-
-### Artikel 42 - Wapens stelen 
-
-1. Het is verboden om iemand te overvallen of te vermoorden enkel met de intentie om hem van zijn wapen te beroven 
-2. Mag het wapen enkel van iemand afpakken als hij bij bewustzijn is. 
-3. Het is niet toegestaan om iemand te beschieten omdat de persoon een wapen bij zich heeft.
-4. Het is niet toegestaan om een persoon omhoog te laten helpen enkel om het wapen van deze persoon te beroven.
-5. Bij het overtreden van lid 1,2,3 of 4 wordt een straf van de 1e categorie uitreiken
-
 
 ## Overige bepalingen
 
@@ -554,40 +544,6 @@ Overtreding van lid 1 wordt bestraft met een straf in de 1e categorie.
     * Enkel dansen als stripper in de stripclub.
 3. Het overtreden van het feit genoemd in lid 1 zal resulteren in een straf van de 7e categorie.
 
-## Narcopolis
-
-Onderstaande regels tellen alleen op Narcopolis
-
-### Artikel N-1 - Schieten vanaf het vasteland en water
-
-1. Het is verboden om vanaf het vaste land op de patrouillerende schepen of heli's te schieten.
-2. Het is vanuit de koninklijke marechaussee verboden om op het vasteland te schieten.
-3. Bij overtreding van lid 1 of lid 2 zal een straf worden gegeven van de 1e categorie.
-4. Er mag op binnenkomende vluchten en schepen geschoten worden, die niet afkomstig zijn van de koninklijke marechaussee.
-
-### Artikel N-2 - Landen van helikopers/vliegtuigen
-
-1. Het is verplicht om te landen op een helipad, een landingsbaan of in een straal van 50 meter van een helipad/landingsbaan.
-2. De sea sparrow en dodo mag wel op openwater rondom het eiland geland worden.
-3. Bij overtreding van het feit beschreven in lid 1 of lid 2 wordt een straf van de 1e categorie uitgedeeld.
-
-### Artikel N-3 - Claimen van het eiland
-
-1. Het eiland kan niet worden geclaimed door een persoon en of criminele organisatie.
-2. Overtreding van deze regel zal resulteren in een straf van de 2e categorie.
-
-### Artikel N-4 - Campen van een niet actieve drugslocatie
-
-1. Het campen van een niet actieve drugslocatie Narcopolis is niet toegestaan.
-2. Het overtreden van deze regel zal resulteren in een straf uit de 2e categorie.
-
-### Artikel N-5 - Samenwerking criminele organisaties
-
-1. Op Narcopolis is het voor een officiële en onofficiele groep niet toegestaan om samen te werken met een officiele of onofficiele groep of persoon.
-2. Uitzondering op lid 1 is er voor het kopen en verkopen van drugs. Dit mag wel gedaan worden op het eiland tussen verschillende groepen en personen.
-3. Bij overtreding van lid 1 zal dit resulteren in een straf volgens de 5e categorie voor iedereen die meedeed aan het Roleplayscenario.
-4. Bij herhaling na de straf van de 5e categorie wordt er een gang strike uitgedeeld.
-
 ## Tijdelijke bepalingen
 
 ### Artikel T-1 - Uitbreken uit de gevangenis
@@ -637,4 +593,4 @@ Onderstaande regels tellen alleen op Narcopolis
 ![bijlage-1](https://Avantis.nl/wp-content/uploads/2021/08/Schermafbeelding_2021-08-23_om_10.png)
 
 ---------------------
-APV opgesteld uit naam van de Hoge Raad, bedoeld voor het eiland, de gemeente en de stad “Aventis”, opgetekend door Jeffrey L en Niels Smit, te Avantis.
+APV opgesteld uit naam van de Hoge Raad, bedoeld voor het eiland, de gemeente en de stad “Avantis”, opgetekend door Jeffrey L en Niels S, te Avantis.
