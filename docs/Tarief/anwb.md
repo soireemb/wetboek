@@ -58,5 +58,5 @@ De ANWB maakt gebruik van verschillende categorieën. Het tarief dat gehanteerd 
 | Kleine benzine bijvullen | € 125,- |
 | Grote benzine bijvullen | € 250,- |
 
-!!! attention "LET OP"
-    De tarieven kunnen te allen tijde worden gewijzigd
+## LET OP
+De tarieven kunnen te allen tijde worden gewijzigd
