@@ -1,31 +1,34 @@
 # Belastingen binnen Avantis
 
-## Wegenbelasting
+## Motorrijtuigenbelasting
 
 Binnen Avantis wordt motorvoertuigenbelasting geïnd over *motor*voertuigen die in je normale garage staan. Voor deze belasting worden dienstvoertuigen uitgesloten. De belasting wordt automatisch geïnd; u hoeft hiervoor niks te doen. Wanneer u meer dan 4 dagen niet meer in de stad bent geweest, hoeft u niet te voldoen aan deze belasting.
 
 De belasting wordt geschaald geïnd. Dit betekent dat hoe meer voertuigen je hebt, hoe meer belasting je betaalt. De genoemde kosten hieronder zijn dan ook indicatief.
 Fietsen zijn uitgesloten van belasting. Alle overige voertuigen met een motor vallen onder deze regeling.
 
-|Motorvoertuigen|Bedrag per dag|
-|:----:|:------------:|
-| 4    | € 330,-      |
-| 8    | € 1460,-     |
-| 10   | € 2150,-     |
-| 20   | € 6430,-     |
-| 30   | € 11.680,-   |
-| 40   | € 17.640,-   |
-| 50   | € 24.180,-   |
+|Per motorvoertuigen|Bedrag Per dag| 
+|:----:|:----:|
+|1|€ 75,-|
 
-## Tol heffing
+-------
+***
+## Vermogensbelasting
 
-Binnen Avantis wordt er bij de grensposten tol geïnd. Deze tol wordt over alle motervoerhuigen geheven.
+Binnen Avantis Wordt vermogensbelasting geïnd over je vermogen die je op je bankrekening hebt staan. Deze belasting wordt automatisch geïnd hoeft hiervoor niks te doen. 
 
-Er kan gekozen worden voor een abonnement om korting te krijgen op de tol.  Dit bedrag is €450,- per dag, wanneer u meer dan 2 dagen niet meer in de stad bent geweest word dit niet meer geind. De aansluitingskosten van dit abonnement bedragen €1500,-
+|Vermogen bedrag|Maximaal Belasting | 
+|:-------:|:----:|
+|€0,-|€ 0,-|
+|€50.000,-|€ 50,-|
+|€150.000,-|€ 150,-|
+|€250.000,-|€ 250,-|
+|€500.000,-|€ 500,-|
+|€1.000.000,-|€ 1.000,-|
+|€3.000.000,-|€ 2.000,-|
+|€6.000.000,-|€ 3.000,-|
+|€12.000.000,-|€ 6.000,-|
 
-|Met abonnement| Zonder abonnement|
-|:-----:|:----:|
-| €0,- | €125,- |
 
 ---------------------
-Belastingen opgesteld uit naam van de Hoge Raad, bedoeld voor het eiland, de gemeente en de stad “Aventis”, opgetekend door Jeffrey L en Niels S, te Avantis.
+Belastingen opgesteld uit naam van de Hoge Raad, bedoeld voor het eiland, de gemeente en de stad “Avantis”, opgetekend door Jeffrey L en Niels S, te Avantis.
