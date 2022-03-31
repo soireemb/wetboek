@@ -13,11 +13,14 @@ Daarom geven we jouw les in hoe jij moet vliegen. Zodat je uiteidelijk een vlieg
 |Vliegtuig of jet examen | € 25000,- |
 
 ## Aanmelden 
-U kan [hier] (https://discord.gg/TmnAzsJt) u aanmelden. Let wel op dat u houdt aan het formaat.
+U kan [hier](https://discord.gg/TmnAzsJt) u aanmelden. Let wel op dat u houdt aan het formaat.
+
+<span style="color: yellow"> LET OP !!! </span>
+
+Om een examen tedoen moet je minimaal 1 les hebben gevolgd. 
 
 
-!!! attention "LET OP"
-    Om een examen tedoen moet je minimaal 1 les hebben gevolgd. 
+<span style="color: yellow"> LET OP !!! </span>
+ 
+De prijzen kunnen ten alle tijden worden worden gewijzigd
 
-!!! attention "LET OP"
-    De tarieven kunnen te allen tijde worden gewijzigd 

@@ -103,10 +103,6 @@ De politie hanteert de volgende boetebedragen. Deze kunnen ten alle tijden worde
 | Witwassen | € 15000,- |
 | Zonder Vliegbrevet vliegen | € 4000,- |
 
-!!! attention "LET OP"
-    De tarieven kunnen te allen tijde worden gewijzigd 
+## LET OP !
 
-
-!!! attention "LET OP"
-    De tarieven kunnen achterlopen met de daadwerkelijke tarieven. De actuele prijzen kunt u [hier] (https://wetboek.avantisrp.nl/wetboek/) bekijken
-
+De tarieven kunnen achterlopen met de daadwerkelijke tarieven. De actuele prijzen kunt u [hier](https://wetboek.avantisrp.nl/wetboek/) bekijken

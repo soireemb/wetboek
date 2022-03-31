@@ -568,6 +568,7 @@ Overtreding van lid 1 wordt bestraft met een straf in de 1e categorie.
 * Geen VDM (Vehicle deathmatch, je wagen als wapen gebruiken).
 * Geen RDM (Random deathmatch, zonder goede reden mensen dood slaan/ schieten).
 * Geen Cheats (Uiteraard is het niet toegestaan om cheats te gebruiken om jezelf een voordeel te geven en dit zal dan ook resulteren is een regelrechte ban)
+* Geen belediging (Het is niet toegestaan om iemand uit teschelden met hedendaags relevante ziektes (kanker en dergelijke) of met racistische opmerkingen, of andere ongepaste opmerkingen,)
 * Geen Exploits (Bugs / Misstanden misbruiken om hier zelf en/of voor andere profijt uit te halen).
 * Geen server/roleplay verstorend gedrag (Mic spammen, trollen etc).
 * Geen Metagaming (Gebruik maken van informatie wat jouw karakter niet kan weten en of andere discord kanalen dan de main discord).
