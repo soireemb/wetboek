@@ -13,7 +13,7 @@ Daarom geven we jouw les in hoe jij moet vliegen. Zodat je uiteidelijk een vlieg
 |Vliegtuig of jet examen | € 25000,- |
 
 ## Aanmelden 
-U kan [hier](https://discord.gg/TmnAzsJt) u aanmelden. Let wel op dat u houdt aan het formaat.
+U kan [hier](https://discord.gg/ccuBFCRwFW) u aanmelden. Let wel op dat u houdt aan het formaat.
 
 <span style="color: yellow"> LET OP !!! </span>
 
