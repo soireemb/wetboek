@@ -49,6 +49,7 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Avantis, wordt hierbij ingetr
 7. Bans worden uitgedeeld op basis van de GTA licentie en ip-adres en geldt als zodanig voor alle gebruikers van deze kenmerken.
 8. Een warning dient binnen 48 uur te worden aangevochten door de speler, anders zal er geen mogelijkheid meer zijn op herziening van deze beslissing.
 
+
 ### A4 - Aanvullende Wetten en regels
 
 1. Aanvullend op de APV is er het Wetboek Avantis (WAVRP), waarin alle wetten, artikelen en bepalingen zijn opgenomen die gelden in Avantis.
@@ -56,6 +57,12 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Avantis, wordt hierbij ingetr
 2. Dit Wetboek heeft, net als de APV, een basis in het Nederlands Recht.
    * Het Nederlands Recht is zodoende leidend, *tenzij* er een Wet of Bepaling is opgenomen in de WAVRP. Dan is deze leidend.
 3. Dit wetboek is, net als deze APV en conform de rechtsstaat, te allen tijde openbaar.
+
+### A5 - schelden met hedendaags relevante ziektes
+1. (Het is niet toegestaan om iemand uit te schelden met hedendaags relevante ziektes (kanker en dergelijke) of met racistische 
+opmerkingen, of andere ongepaste opmerkingen, )
+2. Bij een overtreding van de regel in lid 1 wordt de overtreder bestraft met een bestraffing van de 7e categorie. Enige manier om een unban te krijgen voor dit incident is om een ticket aan te maken. 
+Hierin krijg je te horen als het mogelijk is om voor jouw incident een unban te krijgen. Als dit voor jouw incident mogelijk is moet je alleen nog een donatie doen naar KIKA van € 10,-. Verdere informatie krijg je in de ticket. 
 
 ## Overtredingen - Verstoring openbare orde (RP)
 
@@ -342,12 +349,17 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 3. Wanneer de regel zoals in lid 1 of 2 overtreden wordt zal dit bestraft worden met een straf volgens de 1e categorie.
 4. De regel van lid 1 en 2 is niet van toepassing indien een persoon minder dan 5 minuten geleden de server verlaten is. Dus bij bijvoorbeeld een crash.
 
-### Artikel 33 - Wraak
+### Artikel 33 - fouilleren van een persoon die bewusteloos of dood is 
+
+1. Als een persoon dood is of niet aanspreekbaar is mag je deze persoon niet fouilleren
+2. Indien de regel beschreven in dit artikel overtreden wordt/worden zal dit bestraft worden met een straf volgens de 1e categorie.
+
+### Artikel 34 - Wraak
 
 1. Het is nadat iemand van het leven beroofd is door een rivaliserende groep, gedurende 24 uur niet toegestaan mee te doen aan eventuele wraakacties tegen deze groep.
 2. Indien de regel zoals beschreven in lid 1 overtreden wordt zal dit bestraft worden met een straf volgens de 1e categorie.
 
-### Artikel 34 - Gedrag tegen overheidsmedewerkers
+### Artikel 36 - Gedrag tegen overheidsmedewerkers
 
 1. Het is ten strengste verboden om een ambulancemedewerker te vermoorden, beledigen of niet mee te werken met de roleplay van een ambulancier.
 2. Meldingen naar een overheidsinstantie dienen te allen tijde realistisch en uitgebreid te zijn. Simpelweg een melding maken met "KOM ASAP!", of iets van gelijke strekking, is niet toegestaan. Je dient minimaal wat je ziet, wat er is gebeurd en wat je doet te vermelden.
@@ -358,7 +370,7 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 7. Een uitzondering op lid 5 geldt voor de ambulance. Hierbij moeten er te allen tijde 7 medewerkers beschikbaar blijven. Kortom, als er 8 ambulancemedewerkers aanwezig zijn, dan mag er 1 à 2 ontvoerd worden.
 8. Indien de regel(s) beschreven in dit artikel overtreden wordt/worden zal dit bestraft worden met een straf volgens de 1e categorie.
 
-### Artikel 35 - Roleplay & Ledenaantal Criminele Organisaties
+### Artikel 36 - Roleplay & Ledenaantal Criminele Organisaties
 
 1. Criminele organisaties mogen een maximaal ledenaantal hebben van 25 personen, hierin is een vrije keuze voor het aantal leden met de 'loopjongens' rang (onder loopjongens word gezien officiële leden die zich nog moeten bewijzen en geen toegang hebben tot het F6 menu).
 2. Bij een overtreding van het ledenaantal genoemd in lid 1 zal een straf worden uitgedeeld volgens de 1e categorie aan de eigena(a)r(en) & deelnemers van de organisatie.
@@ -368,11 +380,11 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 6. Bij overtreding van lid 4 & 5 zal dit resulteren in een straf volgens de 5e categorie voor iedereen die meedeed aan het Roleplayscenario.
 7. Bij herhaling van het overtreden van lid 4 & 5, wordt er naast de straf van de 5e categorie ook een gang strike uitgedeeld.
 
-### Artikel 36 - Gedrag Criminele Organisaties
+### Artikel 37 - Gedrag Criminele Organisaties
 
 1. Wanneer de leden in een server supported organisatie zodanig opvallen op een negatieve manier (bijvoorbeeld veel warnings), zal de Hoge Raad beslissen over een gepaste straf jegens deze organisatie. Bij criminele organisaties kan dit zelfs leiden tot een volledige opschorting van de groep.
 
-### Artikel 37 - Illegale activiteiten op Twitter
+### Artikel 38 - Illegale activiteiten op Twitter
 
 1. Het is niet toegestaan om illegale activiteiten te bedrijven op Twitter of op enige voor publiek toegankelijke plaats (Blokkenpark, het casino, het politiebureau, het ziekenhuis en dergelijke).
 2. Onder illegale activiteiten wordt onder andere verstaan, maar niet beperkt tot, het verkopen van locaties waar illegale substanties opgehaald, verwerkt of verkocht kunnen worden, het verkopen en/of verhandelen van (illegale) wapens en in het algemeen handelen in enige goederen waaruit criminelen redelijkerwijs voordeel kunnen halen.  
@@ -380,7 +392,7 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 4. Bij overtreding van lid 1 of lid 3 zal er een straf uitgedeeld worden volgens de 1e categorie.
 5. Bij herhaalde overtreding zal er een straf van de 2e categorie volgen.
 
-### Artikel 38 - Ontsnappen uit het cellencomplex
+### Artikel 39 - Ontsnappen uit het cellencomplex
 
 1. Het is toegestaan om te ontsnappen uit het cellencomplex, echter dient hier een geldig roleplayscenario aan gekoppeld te worden. Dit is ter beoordeling aan een stafflid.
 2. Het is niet toegestaan om te ontsnappen of jezelf uit te laten breken indien er is afgesproken om het roleplayscenario op een later tijdstip voort te zetten, bijvoorbeeld vanwege tijdsgebrek of andere beperkingen.
@@ -389,7 +401,7 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 5. Het is verboden om tussen 23:00 en 10:00 uit het cellencomplex te breken.
 6. Bij overtreding van dit artikel zal er een straf uitgedeeld worden volgens de 1e categorie en zal het roleplayscenario worden teruggedraaid.
 
-### Artikel 39 - Witwassen
+### Artikel 40 - Witwassen
 
 1. Witwassers overvallen is toegestaan wanneer minimaal één van ondergenoemde punten van toepassing is.
     * Hij/zij beschermende kleding zoals een body armor draagt.
@@ -406,7 +418,7 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 6. Het overtreden van de bovenstaande regels zal worden bestraft worden met een straf van de 1e categorie.
 7. De overvaller dient op het moment van overvallen beelden te kunnen overhandingen aan de staffleden. Mocht dit niet gedaan kunnen worden, zal er een straf van de 2e categorie gegeven worden.
 
-### Artikel 40 - Officiële gang regels
+### Artikel 41 - Officiële gang regels
 
 1. Probeer te allen tijde te voorkomen om te schieten bij een officieel gang huis.
 2. Het is verboden om nep meldingen te maken in de omgeving van een ganghuis met de intentie tot uitlokken van de criminelen of het in de problemen werken van de rivaliserende groep.
@@ -422,14 +434,14 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 9. Bij overtreding van lid 7 en/of lid 8 zal een straf van de 5e categorie worden uitgedeeld en zal de functionaliteit voor deze groep worden uitgeschakeld voor een periode die vast wordt gesteld door de hoge raad.
 10. Bij herhaalde overtredingen van lid 1, 2, 3, 4 of 7 door een gang kan er worden overgegaan op gangstrikes.
 
-### Artikel 41 - Winkel en bank overvallen
+### Artikel 42 - Winkel en bank overvallen
 
 1. Een gijzelaar mag geen kennis of vriend van je zijn, maar moet een onbekend persoon zijn.
 2. Het is niet de bedoeling dat elke overval een wild-west-situatie wordt, dus probeer op alle mogelijke manieren eerst een vuurgevecht te vermijden en onderhandel met de politie.
 3. Overtreding van lid 1 zal resulteren in een straf van de 4e categorie.
 4. Overtreding van lid 2 zal resulteren in een minimale straf van de 1e categorie
 
-### Artikel 42 - Wapens stelen 
+### Artikel 43 - Wapens stelen 
 
 1. Het is verboden om iemand te overvallen of te vermoorden enkel met de intentie om hem van zijn wapen te beroven 
 2. Mag het wapen enkel van iemand afpakken als hij bij bewustzijn is. 
@@ -440,7 +452,7 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 
 ## Overige bepalingen
 
-### Artikel 43 - Bodycams
+### Artikel 44 - Bodycams
 
 1. Bodycam beelden zijn op de volgende manier toegestaan
     * Overheidsdiensten zijn uitgerust met bodycams.
@@ -449,16 +461,16 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
     * Alle voertuigen inclusief overheidsvoertuigen kunnen enkel met een dashcam voor- of achteruit filmen. Zie [bijlage 1](/apv/#bijlage-1)
 2. De voorbeelden benoemd in lid zijn bedoeld in de context van Roleplay. Voor bewijsvoering in een ticket of report is alle beeldmateriaal toegestaan.
 
-### Artikel 44 - Journalistiek
+### Artikel 45 - Journalistiek
 
 1. Wanneer een journalist bezig is met een opname of live is, is het niet toegestaan deze te storen. Wanneer deze regel overtreden wordt zal dit resulteren in een ban tot de opname voorbij is en een straf volgens de 1e categorie.
 
-### Artikel 45 - Gezichtsbedekking
+### Artikel 46 - Gezichtsbedekking
 
 1. Het is verboden om gezichtsbedekkende kleding te dragen in het openbaar.
 Overtreding van lid 1 wordt bestraft met een straf in de 1e categorie.
 
-### Artikel 46 - Stemherkenning
+### Artikel 47 - Stemherkenning
 
 1. Het is toegestaan om een speler te herkennen aan zijn/haar stem, tenzij je hem/haar totaal niet kent.
 2. Bij de uitzondering in lid 1 dien je aan te kunnen tonen dat je de persoon daadwerkelijk kent.
@@ -466,11 +478,11 @@ Overtreding van lid 1 wordt bestraft met een straf in de 1e categorie.
 4. Het is toegestaan om gebruik te maken van externe software om je stem te vervormen gedurende het uitvoeren van criminele activiteiten, echter dient dit normaal te blijven. Robotstemmen, babystemmen en dergelijke zijn niet toegestaan. Als algemene richtlijn dient er aangehouden te worden dat je enkel je stem zwaarder mag maken.
 5. Het overtreden van de feiten beschreven in dit artikel zullen worden gestraft met een straf van de eerste categorie.
 
-### Artikel 47 - Streamsniping
+### Artikel 48 - Streamsniping
 
 1. Streamsnipen is ten strengste verboden. Ga jij spelers in game opzoeken aan de hand van iemand zijn/haar stream, of informatie gebruiken die jij uit zijn/haar stream haalt, zal dit bestraft worden volgens de 5e categorie.
 
-### Artikel 48 - Discord
+### Artikel 49 - Discord
 
 1. Het is niet toegestaan om externe discords te gebruiken voor roleplay gerelateerde zaken.
 2. Wanneer je met meerdere mensen die op Avantis spelen in een voicecall zit, is streamen niet toegestaan en moet je gedeafened en gemute zijn. Als één persoon in-game is en de rest niet en je besluit om alsnog in een call te zitten zonder dat je gedeafened/gemute bent, ben je dus ook in overtreding van deze regel.
@@ -478,21 +490,21 @@ Overtreding van lid 1 wordt bestraft met een straf in de 1e categorie.
 4. Het overtreden van het feit genoemd in lid 1, 2 of 3 zal resulteren in een straf van de 1e categorie.
 5. Het overtreden van het feit genoemd in lid 1, 2 of 3 als eigenaar, moderator en/of stafflid van deze server zal resulteren in een straf van de 7e categorie.
 
-### Artikel 49 - Zelfdoding
+### Artikel 50 - Zelfdoding
 
 1. Bij een zelfmoord scenario moet de persoon in kwestie een account wipe krijgen en verplicht voor zijn nieuwe karakter een biografie schrijven. Mocht de persoon dit puur voor aandacht doen en niet uiteindelijk zijn/haar leven beëindigen, zal deze voor 200 uur naar de gevangenis gestuurd worden in isolatie.
 
-### Artikel 50 - Voertuigverlies in water (bij achtervolging)
+### Artikel 51 - Voertuigverlies in water (bij achtervolging)
 
 1. Wanneer men een voertuig dumpt tijdens een achtervolging, waar bij deze in het water terecht komt, zal deze 7 dagen in beslag genenomen worden, waarna er 30% van de nieuwprijs voor moet worden betaald om het voertuig weer op te halen.
 
-### Artikel 51 Schieten van uit een voertuig
+### Artikel 52 Schieten van uit een voertuig
 
 1. Het is verboden voor de bestuurder om van uit een voertuig een wapen af te vuren.
 2. Het is verboden om een wapen af te vuren boven de 150 km/uur.
 3. Indien de boven staande regels verbroken worden zal dit bestraft worden met een straf volgens de 1e categrorie. Bij herhaalde overtreding volgt er ten hoogste een straf volgens de 2e categorie. 
 
-### Artikel 52 - Jobhoppen
+### Artikel 53 - Jobhoppen
 
 1. (Ex-)leden van een criminele organisatie dienen minimaal 7 kalenderdagen te wachten nadat ze ontslag hebben genomen/ontslagen zijn voordat zij aangenomen mogen worden bij een overheidsbaan of een andere criminele organisatie, tenzij anders is bepaald door een lid van de hoge raad.
 2. (Ex-)medewerkers van een overheidsbaan dienen minimaal 7 kalenderdagen te wachten nadat ze ontslag hebben genomen/ontslagen zijn voordat zij aangenomen mogen worden bij een andere overheidsbaan of een criminele organisatie, tenzij anders is bepaald door een lid van de hoge raad.
@@ -507,14 +519,14 @@ Overtreding van lid 1 wordt bestraft met een straf in de 1e categorie.
 | Overheidsbaan | Criminele organisatie | 7 kalenderdagen |
 | Criminele organisatie | Overheidsbaan | 7 kalenderdagen |
 
-### Artikel 53 - Deelname aan overheidsberoep
+### Artikel 54 - Deelname aan overheidsberoep
 
 1. Een werkgever van een overheidsberoep (Beschreven in [Artikel 28 lid 2](/#artikel-28-criminaliteit-ambtenaren)) is verplicht om een geldig VOG te kunnen overhandigen van zijn werknemers.
 2. Een werknemer moet in het bezit zijn van een geldig VOG als deze een overheidsberoep (Beschreven in [Artikel 28 lid 2](/#artikel-28-criminaliteit-ambtenaren)) uitvoert.
 3. Overtreding van lid 2 zal resulteren in een straf van de 2e categorie en ontslag bij dit beroep een verbod op uitoefenen hier van 1 maand.
 4. Als een werkgever herhaaldelijk lid 1 overtreed zal de Hogeraad zich buigen over een gepaste straf
 
-### Artikel 54 - Crimineel gedrag tegen overheidsmedewerkers
+### Artikel 55 - Crimineel gedrag tegen overheidsmedewerkers
 
 1. Het is verboden om een ambulancemedewerker te ontvoeren. 
 2. Het is verboden om een ambulancemedewerker te beledingen. 
@@ -527,7 +539,7 @@ Overtreding van lid 1 wordt bestraft met een straf in de 1e categorie.
 9. Het is niet toegestaan om als een overheidsmedewerker dood is hem te fouilleren. 
 10. Indien de boven staande regels verbroken worden zal dit bestraft worden met een straf volgens de 1e categorie. Bij herhaalde overtreding volgt er ten hoogste een straf volgens de 3e categorie.
 
-### Artikel 55 - Demonstreren
+### Artikel 56 - Demonstreren
 
 1. Het is verboden om in grote groepen samen te komen en te demonstreren zonder dat hier:
     * Schriftelijk toestemming voor is van de hogeraad.
@@ -536,25 +548,25 @@ Overtreding van lid 1 wordt bestraft met een straf in de 1e categorie.
 2. Bij overtreding van één van deze regel zullen alle betrokken personen een straf krijgen van de 2e categorie.
 3. Mocht de demonstratie uit de hand lopen indien deze wel voldoet aan lid 1 zal de leidinggevende persoon een straf krijgen van de 3e categorie.
 
-### Artikel 56 - Borgtocht
+### Artikel 57 - Borgtocht
 
 1. Op het moment dat een persoon op borgtocht wordt gestuurd door de politie, dan ligt het scenario tussen de politie en de desbetreffende persoon stil.
 2. Er dient aan alle voorwaarden van de borgtocht gehouden te worden.
 3. Het is niet toegestaan om spullen (zoals wapens, drugs en dergelijke) die vóór de aanhouding in het appartement/voertuig zaten hieruit te halen of over te dragen naar andere personen op het moment dat een persoon op borgtocht is gestuurd.
 4. Bij overtreding van lid 1, 2 of 3 zal een straf worden gegeven van de 1e categorie en zal het roleplayscenario worden teruggedraaid.
 
-### Artikel 57 - Refunds
+### Artikel 58 - Refunds
 
 1. Items worden niet gerefund wanneer zij verloren zijn gegaan door een aangekondigde server restart.
 2. Stacks aan items zoals drugs worden alleen gerefund bij het onverwachts wegvallen van de server door bijvoorbeeld een crash.
 3. Refunds die vallen onder lid 2 worden alleen gegeven wanneer er voldoende bewijs wordt geleverd dat het daadwerkelijk door het onverwachts wegvallen van de server verloren is gegaan.
 
-### Artikel 58 - Appartementen
+### Artikel 59 - Appartementen
 
 1. Het oplichten van een persoon, verkopen en inkopen van wapens, verkopen en opkopen van drugs, vermoorden of ontvoeren van een persoon en het gebruiken van een wapen zijn in een appartement verboden.
 2. Bij overtreding van lid 1. Zal dit resulteren in een straf volgens de 4e categorie voor alle betrokken partijen.
 
-### Artikel 59 - Erotische Roleplay(ERP)
+### Artikel 60 - Erotische Roleplay(ERP)
 
 1. Het is verboden om een Erotische roleplay uit te voeren of aan te gaan.
 2. Uitzondering van het feit genoemd in lid 1 zal binnen de Hoge Raad besproken moeten worden. Enkel voorbeeld hiervan:
