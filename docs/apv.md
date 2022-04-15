@@ -112,8 +112,9 @@ Hierin krijg je te horen als het mogelijk is om voor jouw incident een unban te 
  
 ### Artikel 4 - Verstoring RP
  
-1. Hij of zij die moedwillig Roleplays van andere spelers verstoord zal gestraft worden met een straf volgens de 1e categorie.
-2. Hij of zij volgens categorie 2.
+1. Hij/zij die moedwillig Roleplays van andere spelers verstoord zal gestraft worden met een straf volgens de 1e categorie.
+2. Voertuigen die achtergelaten worden op verwijder cirkels of andere cirkels blokkeren met een voertuig worden ook gezien als roleplay verstorend gedrag.
+3. Indien de overtreder na de straf genoemd in lid 1 nog niet ophoudt met het verstorend gedrag kan er gekozen worden de overtreder te bestraffen volgens categorie 2.
  
 ### Artikel 5 - Meta-gaming
  
@@ -191,7 +192,7 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 ### Artikel 13 - Microfoon
  
 1. Men dient een werkende microfoon te hebben in-game. Indien een persoon moedwillig weigert hieraan te voldoen zal Hij of zij bestraft worden volgens de 2e categorie.
-2. Voordat de straf zoals beschreven in lid 1 gegeven wordt zal een staff lid er alles aan doen contact te vinden met de desbetreffende persoon, door onder andere gebruik te maken van de in-game voice chat, ooc, /me en eventueel Discord. Reageert de persoon op al deze middelen niet dan zal de persooDiscordked worden met de reden “We horen u niet, probeer a.u.b. uw microfoon werkend te maken.”
+2. Voordat de straf zoals beschreven in lid 1 gegeven wordt zal een staff lid er alles aan doen contact te vinden met de desbetreffende persoon, door onder andere gebruik te maken van de in-game voice chat, ooc, /me en eventueel Discord. Reageert de persoon op al deze middelen niet dan zal de persoon gekicked worden met de reden “We horen u niet, probeer a.u.b. uw microfoon werkend te maken.”
  
 ### Artikel 14 - Nederlandse Taal
  
@@ -285,7 +286,7 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
  
 ### Artikel 26 - Belediging
  
-1. Hij of zij die scheld met hedendaags relevante ziektes (kanker en derHij of zij) of met racistische opmerkingen, of andere ongepaste opmerkingen, wordt gestraft met een straf van maximaal de 7e categorie en minimale ban van 2 weken.
+1. Hij/zij die scheld met hedendaags relevante ziektes (kanker en dergelijke) of met racistische opmerkingen, of andere ongepaste opmerkingen, wordt gestraft met een straf van maximaal de 7e categorie en minimale ban van 2 weken.
 2. Lid 1 is ook vankracht op de volgende punten:
     * Steamnaam
     * Discordnaam
@@ -428,7 +429,7 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
     * Alle leden eenmaal zijn overleden.
     * Wanneer één van de 2 groepen zich overgeeft.
 6. Het overtreden van lid 1, 2, 3 of 4 zal leiden tot een straf van de 1e categorie.
-7. Het confisceren van items, wapens en gelleiden totler is alleen toegestaan als hier een roleplay aan is verbonden en bij een speler die levend is.
+7. Het confisceren van items, wapens en geld van een speler is alleen toegestaan als hier een roleplay aan is verbonden en bij een speler die levend is.
 8. Het confisceren van overheidsitems is niet toegestaan.
 9. Bij overtreding van lid 7 en/of lid 8 zal een straf van de 5e categorie worden uitgedeeld en zal de functionaliteit voor deze groep worden uitgeschakeld voor een periode die vast wordt gesteld door de hoge raad.
 10. Bij herhaalde overtredingen van lid 1, 2, 3, 4 of 7 door een gang kan er worden overgegaan op gangstrikes.
@@ -479,7 +480,7 @@ Overtreding van lid 1 wordt bestraft met een straf in de 1e categorie.
  
 ### Artikel 48 - Streamsniping
  
-1. Streamsnipen is ten strengste verboden. Ga jij spelers in game opzoeken aan de hand van iemand zijn of haar alt, zal dit bestraft worden volgens de 5e categorie.
+1. Streamsnipen is ten strengste verboden. Ga jij spelers in game opzoeken aan de hand van iemand zijn/haar stream, of informatie gebruiken die jij uit zijn/haar stream haalt, zal dit bestraft worden volgens de 5e categorie.
  
 ### Artikel 49 - Discord
  
@@ -501,7 +502,7 @@ Overtreding van lid 1 wordt bestraft met een straf in de 1e categorie.
  
 1. Het is verboden voor de bestuurder om van uit een voertuig een wapen af te vuren.
 2. Het is verboden om een wapen af te vuren boven de 150 km/uur.
-3. Indien de boven staande regels verbroken worden zal dit bestraft worden met een straf volgens de 1e categorie.
+3. Indien de boven staande regels verbroken worden zal dit bestraft worden met een straf volgens de 1e categrorie. Bij herhaalde overtreding volgt er ten hoogste een straf volgens de 2e categorie. 
  
 ### Artikel 53 - Jobhoppen
  
@@ -602,7 +603,7 @@ Overtreding van lid 1 wordt bestraft met een straf in de 1e categorie.
 * Het is VERPLICHT een microfoon te hebben om te kunnen communiceren en Roleplayen.
 * Nederlands kunnen spreken is verplicht.
 * Je kunt alleen contant geld stelen bank geld kan niet gestolen worden.
-* Werk je bij de overheidsdiensten dan geldt er een zero tolerance beleid met bate tot drugs of criminele activiteiten. Wordt dit einde baan. Het is daarnaast verboden om overheidsvoorwerpen te verkopen of weg te geven en dit is ban-waardig. Denk hierbij aan wapens, medkits, of in beslag genomen voertuigen en drugs, ook is het verboden om je beroep in je voordeel te gebruiken bij criminele activiteiten.
+* Werk je bij de overheidsdiensten dan geldt er een zero tolerance beleid met bate tot drugs of criminele activiteiten. Wordt je ingame gepakt door een agent of ziet een stafflid dit, dan betekent dit einde baan. Het is daarnaast verboden om overheidsvoorwerpen te verkopen of weg te geven en dit is ban-waardig. Denk hierbij aan wapens, medkits, of in beslag genomen voertuigen en drugs, ook is het verboden om je beroep in je voordeel te gebruiken bij criminele activiteiten.
 * Gebruikt /report om mensen te rapporteren die niet naar de regels luisteren. (Maakt de RP veel beter).
 * Niet ADVERTEREN met je eigen server/Discord in de server zowel als op de Discord.
 * Gebruik Twitter voor in character berichten, dus juist voor Roleplay.
