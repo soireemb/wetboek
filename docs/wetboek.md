@@ -1061,4 +1061,4 @@
 
 ---------------------
 
-*Wetboek AvantisRP is opgesteld uit naam van de Hoge Raad, bedoeld voor het eiland, de gemeente en de stad “AvantisRP”, opgetekend door Jeffrey L en Niels S, te AvantisRP.*
+*Wetboek AvantisRP is opgesteld uit naam van de Hoge Raad, bedoeld voor het eiland, de gemeente en de stad “AvantisRP”, opgetekend door Senso en Niels, te AvantisRP.*

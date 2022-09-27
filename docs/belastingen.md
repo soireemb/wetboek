@@ -31,4 +31,4 @@ Binnen Avantis Wordt vermogensbelasting geïnd over je vermogen die je op je ban
 
 
 ---------------------
-Belastingen opgesteld uit naam van de Hoge Raad, bedoeld voor het eiland, de gemeente en de stad “Avantis”, opgetekend door Jeffrey L en Niels S, te Avantis.
+Belastingen opgesteld uit naam van de Hoge Raad, bedoeld voor het eiland, de gemeente en de stad “Avantis”, opgetekend door Senso en Niels, te Avantis.

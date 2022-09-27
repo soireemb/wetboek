@@ -94,4 +94,4 @@ Bij het rijden met een voertuig op een pad of weg, waarvoor deze niet bedoeld is
 Ps. Missen er nog voertuigen of is het onduidelijk graag even een ticket ervoor aanmaken
 
 ---------------------
-offroadvoeertuigen opgesteld uit naam van de Hoge Raad, bedoeld voor het eiland, de gemeente en de stad “Avantis”, opgetekend door Jeffrey L en Niels S, te Avantis.
+offroadvoeertuigen opgesteld uit naam van de Hoge Raad, bedoeld voor het eiland, de gemeente en de stad “Avantis”, opgetekend door Senso en Niels, te Avantis.

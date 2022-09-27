@@ -624,4 +624,4 @@ Overtreding van lid 1 wordt bestraft met een straf in de 1e categorie.
 ![bijlage-1](https://Avantis.nl/wp-content/uploads/2021/08/Schermafbeelding_2021-08-23_om_10.png)
  
 ---------------------
-APV opgesteld uit naam van de Hoge Raad, bedoeld voor het eiland, de gemeente en de stad “Aventis”, opgetekend door Jeffrey L en Niels S, te Avantis.
+APV opgesteld uit naam van de Hoge Raad, bedoeld voor het eiland, de gemeente en de stad “Avantis”, opgetekend door Senso en Niels, te Avantis.

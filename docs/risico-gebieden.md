@@ -108,4 +108,4 @@ De korpsleiding is bevoegd om, in samenspraak met de gemeenteraad van Avantis, a
 - 707
 
 ---------------------
-Risco gebieden opgesteld uit naam van de Hoge Raad, bedoeld voor het eiland, de gemeente en de stad “Avantis”, opgetekend door Jeffrey L en Niels S, te Avantis.
+Risco gebieden opgesteld uit naam van de Hoge Raad, bedoeld voor het eiland, de gemeente en de stad “Avantis”, opgetekend door Senso en Niels, te Avantis.
