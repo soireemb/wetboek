@@ -11,7 +11,7 @@ Zorg ervoor, dat je voor je deelneemt aan AvantisRP, kennis hebt genomen van dez
 
 ## Officiële discord servers
 
-AvantisRP heeft verschillende discord servers die zijn goed gekeurd door het stadsbestuur deze zijn:
+Avantis Roleplay heeft verschillende discord servers die zijn goed gekeurd door het stadsbestuur deze zijn:
 
 | Server | Beschrijving | Invite link |
 |---|---|:---:|
