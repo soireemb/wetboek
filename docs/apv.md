@@ -19,7 +19,7 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Avantis, wordt hierbij ingetr
 ### A1 - Reikwijdte
  
 1. Deze Algemene Plaatselijke Verordening (verder aangeduid als APV) is bedoeld als aanvulling op het Nederlands Recht en heeft betrekking op het eiland, de gemeente, en de stad Avantis.
-2. De APV biedt een indicerend kader voor eventuele bestraffing in-game (“in RP”), maar is verder bedoeld voor het afhandelen van straffen buiten de RP om.
+2. De APV biedt een indicerend kader voor eventuele bestraffing in-game (“in RP”), maar is verder bedoeld voor het afhandelen van straffen buiten de Roleplay om.
  
 ### A2 - Geldigheid
  

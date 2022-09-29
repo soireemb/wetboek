@@ -1,6 +1,6 @@
-site_name: AvantisRP wet en regelgeving
+site_name: Avantis wet en regelgeving
 site_url: https://example.com
-site_description: 'Wetgeving Avantis roleplay'
+site_description: 'Wet en regelgeving van Avantis roleplay'
 site_author: 'xRadeCoding'
 
 copyright: AvantisRP • © alle rechten voorbehouden | 2021 - 2022
@@ -12,11 +12,11 @@ theme:
   palette:
     - scheme: default
       toggle:
-        icon: material/toggle-switch
+        icon: material/weather-night
         name: Switch to dark mode
     - scheme: slate
       toggle:
-        icon: material/toggle-switch-off-outline
+        icon: material/weather-sunny
         name: Switch to light mode
   custom_dir: docs/overrides
   language: nl
