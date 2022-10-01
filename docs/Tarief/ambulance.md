@@ -36,5 +36,5 @@ Voor de ambulance gelden de onderstaande tarieven:
 | Operatie botbreuk(en)                 | € 1000,- | € 4000,- |
 | Operatie schotwond(en)                | € 1500,- | € 5000,- |
 
-!!! attention "LET OP"
-    De prijzen kunnen ten alle tijden worden worden gewijzigd
+## LET OP
+De tarieven kunnen te allen tijde worden gewijzigd

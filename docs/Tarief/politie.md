@@ -106,3 +106,5 @@ De politie hanteert de volgende boetebedragen. Deze kunnen ten alle tijden worde
 ## LET OP !
 
 De tarieven kunnen achterlopen met de daadwerkelijke tarieven. De actuele prijzen kunt u [hier](https://wetboek.avantisrp.nl/wetboek/) bekijken
+
+

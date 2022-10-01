@@ -14,7 +14,7 @@ Zorg ervoor, dat je voor je deelneemt aan AvantisRP, kennis hebt genomen van dez
 Avantis Roleplay heeft verschillende discord servers die zijn goed gekeurd door het stadsbestuur deze zijn:
 
 | Server | Beschrijving | Invite link |
-|---|---|:---:|
-|AvantisRP RolePlay| Main discord server van AvantisRP | [Invite](https://discord.gg/2DsQSyM3zE) |
-|AvantisRP Hulpdiensten| Hulpdiensten discord server van AvantisRP | [Invite](https://discord.gg/4dt4c77KuN) |
-|AvanrisRP Ticket| Ticket discord server van AvantisRP | [Invite](https://discord.gg/3XWDKNTphc)
+|------|---|:---:|
+|Avantis RolePlay| Main discord server van Avantis Roleplay | [Invite](https://discord.gg/2DsQSyM3zE) |
+|Avantis Hulpdiensten| Hulpdiensten discord server van Avantis Roleplay | [Invite](https://discord.gg/4dt4c77KuN) |
+|Avantis Ticket| Ticket discord server van Avantis Roleplay | [Invite](https://discord.gg/3XWDKNTphc)
